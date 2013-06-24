@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Garden", "1. Garden\1. Garden.csproj", "{0D707E28-88C1-4C9E-A7F1-F847BA3A5602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. BatGoikoTower", "4. BatGoikoTower\4. BatGoikoTower.csproj", "{5ACA563A-163D-4AFA-A436-173C47CE684E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Secrets", "2. Secrets\2. Secrets.csproj", "{46BC75B7-F333-4209-A9B8-16604AABB582}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D707E28-88C1-4C9E-A7F1-F847BA3A5602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D707E28-88C1-4C9E-A7F1-F847BA3A5602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D707E28-88C1-4C9E-A7F1-F847BA3A5602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D707E28-88C1-4C9E-A7F1-F847BA3A5602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACA563A-163D-4AFA-A436-173C47CE684E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACA563A-163D-4AFA-A436-173C47CE684E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACA563A-163D-4AFA-A436-173C47CE684E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACA563A-163D-4AFA-A436-173C47CE684E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46BC75B7-F333-4209-A9B8-16604AABB582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46BC75B7-F333-4209-A9B8-16604AABB582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46BC75B7-F333-4209-A9B8-16604AABB582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46BC75B7-F333-4209-A9B8-16604AABB582}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

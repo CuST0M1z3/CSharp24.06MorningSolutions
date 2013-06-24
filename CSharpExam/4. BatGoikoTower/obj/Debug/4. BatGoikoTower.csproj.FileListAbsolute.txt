@@ -1,0 +1,13 @@
+C:\Users\SpooN\Desktop\C# 24.06.2012\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.exe.config
+C:\Users\SpooN\Desktop\C# 24.06.2012\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.exe
+C:\Users\SpooN\Desktop\C# 24.06.2012\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.pdb
+C:\Users\SpooN\Desktop\C# 24.06.2012\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.exe
+C:\Users\SpooN\Desktop\C# 24.06.2012\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.pdb
+C:\Users\SpooN\Desktop\C# 24.06.2012 Morning\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.exe.config
+C:\Users\SpooN\Desktop\C# 24.06.2012 Morning\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.exe
+C:\Users\SpooN\Desktop\C# 24.06.2012 Morning\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.pdb
+C:\Users\SpooN\Desktop\C# 24.06.2012 Morning\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.exe
+C:\Users\SpooN\Desktop\C# 24.06.2012 Morning\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.pdb
+C:\Users\SpooN\Desktop\C#Homeworks\C#24.06.2012Morning\CSharpExam\4. BatGoikoTower\bin\Debug\_4.BatGoikoTower.exe.config
+C:\Users\SpooN\Desktop\C#Homeworks\C#24.06.2012Morning\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.exe
+C:\Users\SpooN\Desktop\C#Homeworks\C#24.06.2012Morning\CSharpExam\4. BatGoikoTower\obj\Debug\_4.BatGoikoTower.pdb
